@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shootable
+  - HealthBar
+  - teleporter
+  - TopOfVolcano
+  - Fire
+  - Key
+  - wayPoint
+  - Door
+  - OpenTarget
+  - Fridge
+  - Nightstand1
+  - Nightstand2
+  - EndTable1
+  - EndTable2
+  - L3FirstKey
+  - L3SecondKey
+  - BathroomDoor
+  - BathroomDoor2
+  - BedroomDoor1
+  - BedroomDoor2
+  - FridgeSmallDoor
+  - Maze
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Lighting
+  - Ground
+  - Postprocessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fire
+    uniqueID: 3804908061
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
